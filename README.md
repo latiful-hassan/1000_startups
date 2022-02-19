@@ -10,10 +10,9 @@ The Board of Directors for a Venture Capital Fund are reviewing 1000 start-ups t
 
 **Dashboard**: 
  - created a dashboard that contains a scatter plot that targets the quadrant of start-ups that have the highest growth, dependant on what parameters the user wants.
-
  **Techniques Used**:
-  - groups
-  - static sets
-  - dynamic sets
-  - combined sets
-  - parameters
+  * groups
+  * static sets
+  * dynamic sets
+  * combined sets
+  * parameters
