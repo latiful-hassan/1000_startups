@@ -10,4 +10,6 @@ The Board of Directors for a Venture Capital Fund are reviewing 1000 start-ups t
 
 **Techniques Used**:
  - groups
- - static/dynamic sets
+ - static sets
+ - dynamic sets
+ - combined sets
