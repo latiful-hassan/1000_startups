@@ -7,3 +7,7 @@ The Board of Directors for a Venture Capital Fund are reviewing 1000 start-ups t
   * top growth (2015)
 
 **Task**: assist the Board in identifying which businesses to represent the best investment opportunities.
+
+**Techniques Used**:
+ - groups
+ - static/dynamic sets
