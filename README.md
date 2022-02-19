@@ -1,5 +1,6 @@
 # 1000_startups_viz
-- The Board of Directors for a Venture Capital Fund are reviewing 1000 start-ups to invest in.
+The Board of Directors for a Venture Capital Fund are reviewing 1000 start-ups to invest in.
+
 - The criterion is as follows:
   * high revenue
   * low expenses
