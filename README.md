@@ -12,9 +12,12 @@ The Board of Directors for a Venture Capital Fund are reviewing 1000 start-ups t
  - created a dashboard that contains a scatter plot that targets the quadrant of start-ups that have the highest growth, dependant on what parameters the user wants (expenses, revenue and growth leaders)
  - once parameters are in place, the scatter plot updates and shows clearly the start-ups with the highest potential
  
- **Techniques Used**:
+ **Techniques & Formatting**:
   * groups
   * static sets
   * dynamic sets
   * combined sets
   * parameters
+  * reference lines
+  * drop lines
+  * custom tooltips
